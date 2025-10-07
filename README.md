@@ -45,8 +45,8 @@
 
 ### 📬 Connect With Me
 
-🌐 **Portfolio:** [[Your Portfolio Link Here](https://baldstudio.wixsite.com/keptbackgamedev)]
-💼 **LinkedIn:** [[Your LinkedIn Link](https://www.linkedin.com/in/apurv-singh-49316815a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfcM%2FRpBwTDWpzlnYduSvJA%3D%3D)]
+🌐 **Portfolio:** [[Link](https://baldstudio.wixsite.com/keptbackgamedev)]
+💼 **LinkedIn:** [[Link](https://www.linkedin.com/in/apurv-singh-49316815a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfcM%2FRpBwTDWpzlnYduSvJA%3D%3D)]
 
 ---
 
